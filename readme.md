@@ -1,4 +1,4 @@
-## How to use rktry
+## How to use silo
 
 ### with existing nginx
 - to use this with an existing nginx instance, said instance will have to be
